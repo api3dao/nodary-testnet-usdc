@@ -1,0 +1,8 @@
+{
+  "chainNames": {
+    "11155111": "ethereum-sepolia-testnet"
+  },
+  "TestnetUsdc": {
+    "11155111": "0x38d464DaE51409079D9B2553b162773A16E26643"
+  }
+}
