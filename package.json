@@ -3,6 +3,8 @@
   "version": "0.1.0",
   "license": "MIT",
   "description": "Testnet USDC contract that can be minted with signed Nodary data",
+  "private": false,
+  "main": "src/index",
   "files": [
     "contracts",
     "src",
